@@ -75,3 +75,5 @@ HTML                     1 repo              ██████░░░░░�
 
  Last Updated on 24/07/2022 20:22:44 UTC
 <!--END_SECTION:waka-->
+
+<figure><embed src="https://wakatime.com/share/@9fb6c1d5-a9b8-4928-91a9-4f01d3dc2033/09c0e64a-0876-4af1-b150-57de6b9bdcd2.svg"></embed></figure>
