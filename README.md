@@ -40,7 +40,7 @@
 
 ### :fire: Моя статистика :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=by-Egorov&theme=react&border_radius=6&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=by-Egorov&border_radius=6&locale=ru)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=by-egorov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=by-egorov&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
