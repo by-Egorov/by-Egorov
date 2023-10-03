@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/by-Egorov/by-Egorov/blob/main/assets/my-photo.jpg" width="384" height="512"/>
+  <img src="./assets/my-photo.jpeg" width="384" height="512"/>
 </div>
 ---
 
