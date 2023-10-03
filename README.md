@@ -16,10 +16,9 @@
 <div align="center">
   <img src="./assets/my-photo.jpeg" width="384" height="512"/>
 </div>
-
 ---
 
-<h1 color='black'>
+<h1>
   Привет, меня зовут Александр!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
