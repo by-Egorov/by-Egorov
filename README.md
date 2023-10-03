@@ -20,5 +20,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About me :
+### :man_technologist: Обо мне :
+Я начинающий frontend-разработчик. Мой основной вид деятельности не связан с миром IT. Сейчас активно изучаю JavaScript, React JS. ...
 
