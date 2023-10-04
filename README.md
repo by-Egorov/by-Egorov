@@ -13,17 +13,18 @@
 </a>
 </div>
 
-<div align="center">
+<div align='center'>
   <img src="./assets/my-photo.jpeg" width="384" height="512"/>
-</div>
----
-
 <h1>
   Привет, меня зовут Александр!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+
+---
 
 ### :man_technologist: Обо мне :
+
 Я начинающий frontend-разработчик. Мой основной вид деятельности не связан с миром IT. Сейчас активно изучаю JavaScript, React JS.
 
 ---
@@ -46,4 +47,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=by-Egorov&theme=github-dark-blue&border_radius=6&locale=ru)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=by-egorov&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
